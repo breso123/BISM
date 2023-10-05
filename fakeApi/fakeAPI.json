@@ -1,0 +1,1553 @@
+{
+  "users": [
+    {
+      "firstname": "Ivan",
+      "lastname": "Bresan",
+      "email": "bresan.ivan@hotmail.com",
+      "password": "breso123",
+      "isSubscribed": false,
+      "isAuthenticated": true,
+      "id": "123456789"
+    },
+    {
+      "firstname": "Ante",
+      "lastname": "Perkovic",
+      "email": "perkovic.ante@gmail.com",
+      "password": "breso123",
+      "isSubscribed": false,
+      "isAuthenticated": false,
+      "id": "987654321"
+    },
+    {
+      "firstname": "luka",
+      "lastname": "banic",
+      "email": "banoic@hotmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "isSubscribed": false,
+      "isAuthenticated": false,
+      "id": "cp9u6sy"
+    },
+    {
+      "firstname": "luka",
+      "lastname": "banic",
+      "email": "banic@hotmail.com",
+      "password": "1234",
+      "confirmpassword": "1234",
+      "isSubscribed": false,
+      "isAuthenticated": false,
+      "id": "AjTIRy9"
+    },
+    {
+      "firstname": "luka",
+      "lastname": "brekalo",
+      "email": "brekalo.luka@hotmail.com",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "isSubscribed": false,
+      "isAuthenticated": false,
+      "id": "lECopW-"
+    },
+    {
+      "firstname": "luka",
+      "lastname": "banic",
+      "email": "bane@hotmail.com",
+      "password": "1234",
+      "confirmpassword": "1234",
+      "isSubscribed": false,
+      "isAuthenticated": false,
+      "id": "b79tWHe"
+    },
+    {
+      "firstname": "luka",
+      "lastname": "brekalo",
+      "email": "bresano.ivan@hotmail.com",
+      "password": "456",
+      "confirmpassword": "456",
+      "isSubscribed": false,
+      "isAuthenticated": false,
+      "id": "K3uVv7p"
+    },
+    {
+      "firstname": "eva",
+      "lastname": "matic",
+      "email": "maticeva@hotmail.com",
+      "password": "breso123",
+      "confirmpassword": "breso123",
+      "isSubscribed": false,
+      "isAuthenticated": false,
+      "id": "KwRSbro"
+    }
+  ],
+  "news": [
+    {
+      "url": "https://s.yimg.com/ny/api/res/1.2/VxWb5pOe1aCOpw4Ymosy8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTQ3MA--/https://media.zenfs.com/en/fortune_175/8f31753c0bd9640ad601edc60f92ea40",
+      "provider": "Fortune",
+      "providerSite": "https://fortune.com/",
+      "date": "2023-10-09T15:59:59.138Z",
+      "title": "Meet a 29-year-old accountant whose ‘resentment’ only climbed after her firm raised her salary from $60k to $90k as she made millions for them. She has her own firm now",
+      "content": "Stephanie Heredia’s promotion came a year too late and more than a few dollars short. Heredia, 29, started an accountant job at a small Tampa, Florida firm, with the promise that her $60,000 base salary would rise to $100,000 after one year."
+    },
+    {
+      "url": "https://s.yimg.com/ny/api/res/1.2/1WXyRxI09Qkc8DQEs_t1pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM1Mw--/https://media.zenfs.com/en/business_insider_articles_888/babe6c815a43ca1fb820e3f81675ac3e",
+      "provider": "Business Insider",
+      "providerSite": "https://www.businessinsider.com/",
+      "date": "2023-10-08T15:59:59.138Z",
+      "title": "$7.6 trillion of US government debt will mature in the next year, adding pressure on rates",
+      "content": "Nearly a third of all outstanding US government debt is set to mature in the next 12 months, according to an analysis from asset management firm Apollo.A chart from Chief Economist Torsten Sløk shows that the share of US public debt set to mature in a year or less has steadily risen toward pandemic-era levels and is now at 31%. In terms of dollar amount, that's $7.6 trillion, a high not seen since early 2021."
+    },
+    {
+      "url": "https://s.yimg.com/ny/api/res/1.2/3eifgXTYq5CnD3jeJ7ZTIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM4Nw--/https://media.zenfs.com/en/smartasset_475/c0a43edf22425f0b103ddc4a6e1ceab2",
+      "provider": "SmartAsset",
+      "providerSite": "https://smartasset.com/",
+      "date": "2023-10-04T15:59:59.138Z",
+      "title": "How Much Can I Make in Dividends With $100k?",
+      "content": "Popular conceptions of investing involve trading company stock when its value appreciates. However, dividends allow you to profit from holding company stock without selling it. Dividends offer investors regular cash payouts from companies they’ve invested in, resulting in passive income. "
+    },
+    {
+      "url": "https://s.yimg.com/ny/api/res/1.2/jmj8md7rxgreBB_ZKfQYQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTM1Mw--/https://media.zenfs.com/en/Barrons.com/f339e44b8cdc062a0ade83ac64312d7b",
+      "provider": "Barron's",
+      "providerSite": "https://store.barrons.com/shop/emea/bareur24v1/?gclid=Cj0KCQjw0vWnBhC6ARIsAJpJM6cUQq-POsmr6e54p9WsTC59GctyextVLnSqFsdrzudOLNNqWvFcebYaAg9jEALw_wcB&trackingCode=aaqzbfr8&cid=BAR_SCH_GOO_ACQ_NA&gclsrc=aw.ds&gad=1&ef_id=XrlHbwAAAg9cEC3-:20230910154511:s",
+      "date": "2023-08-22T15:59:59.138Z",
+      "title": "4 Income Investments That Are Better than Bonds",
+      "content": "Preferred stocks—high-yielding hybrids with characteristics of both stocks and bonds—are an attractive alternative to bonds."
+    },
+    {
+      "url": "https://s.yimg.com/ny/api/res/1.2/dw7EKckvwupTjqxlC1CQQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNQ--/https://s.yimg.com/os/creatr-uploaded-images/2023-08/aef4b640-4e4f-11ee-abf7-530b20bd56cf",
+      "provider": "Yahoo Finance",
+      "providerSite": "https://finance.yahoo.com/",
+      "date": "2023-07-17T15:59:59.138Z",
+      "title": "More Americans are forced to retire early — and are unprepared for the long haul",
+      "content": "Talk about a calamity trifecta.The big three? According to recent surveys, many Americans are forced into retiring earlier than they imagined. To make matters worse, they don’t have an inkling of how much they need to save to live comfortably during their retirement years. Nor do they have a firm grasp on how many years they might need to finance after they leave the workforce — putting them at risk of outliving their money."
+    }
+  ],
+  "pricing": [
+    {
+      "name": "FREE",
+      "price": 0,
+      "allFeatures": [
+        "Undefined for now",
+        "News",
+        "Ideas",
+        "Crypto",
+        "Forex",
+        "Blue Chip Stocks",
+        "Markets Level C",
+        "Markets level B",
+        "Markets level A",
+        "Ultimate Financial Models"
+      ],
+      "included": [
+        "Undefined for now",
+        "News",
+        "Ideas",
+        "Crypto",
+        "Forex",
+        "Blue Chip Stocks"
+      ]
+    },
+    {
+      "name": "MAINSTREAM",
+      "price": 54.99,
+      "allFeatures": [
+        "Undefined for now",
+        "News",
+        "Ideas",
+        "Crypto",
+        "Forex",
+        "Blue Chip Stocks",
+        "Markets Level C",
+        "Markets level B",
+        "Markets level A",
+        "Ultimate Financial Models"
+      ],
+      "included": [
+        "Undefined for now",
+        "News",
+        "Ideas",
+        "Crypto",
+        "Forex",
+        "Blue Chip Stocks",
+        "Markets Level C",
+        "Markets level B"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": 124.99,
+      "allFeatures": [
+        "Undefined for now",
+        "News",
+        "Ideas",
+        "Crypto",
+        "Forex",
+        "Blue Chip Stocks",
+        "Markets Level C",
+        "Markets level B",
+        "Markets level A",
+        "Ultimate Financial Models"
+      ],
+      "included": [
+        "Undefined for now",
+        "News",
+        "Ideas",
+        "Crypto",
+        "Forex",
+        "Blue Chip Stocks",
+        "Markets Level C",
+        "Markets level B",
+        "Markets level A"
+      ]
+    }
+  ],
+  "income_statement": [
+    {
+      "fiscal_date": "2021-09-30",
+      "sales": 365817000000,
+      "cost_of_goods": 212981000000,
+      "gross_profit": 152836000000,
+      "operating_expense": {
+        "research_and_development": 21914000000,
+        "selling_general_and_administrative": 21973000000,
+        "other_operating_expenses": null
+      },
+      "operating_income": 108949000000,
+      "non_operating_interest": {
+        "income": 2843000000,
+        "expense": 2645000000
+      },
+      "other_income_expense": 60000000,
+      "pretax_income": 109207000000,
+      "income_tax": 14527000000,
+      "net_income": -94680000000,
+      "eps_basic": 5.67,
+      "eps_diluted": 5.61,
+      "basic_shares_outstanding": 16701272000,
+      "diluted_shares_outstanding": 16701272000,
+      "ebitda": 123136000000,
+      "net_income_continuous_operations": 94680000000,
+      "minority_interests": null,
+      "preferred_stock_dividends": null
+    },
+    {
+      "fiscal_date": "2020-09-30",
+      "sales": 274515000000,
+      "cost_of_goods": 169559000000,
+      "gross_profit": 104956000000,
+      "operating_expense": {
+        "research_and_development": 18752000000,
+        "selling_general_and_administrative": 19916000000,
+        "other_operating_expenses": null
+      },
+      "operating_income": 66288000000,
+      "non_operating_interest": {
+        "income": 3763000000,
+        "expense": 2873000000
+      },
+      "other_income_expense": -87000000,
+      "pretax_income": 67091000000,
+      "income_tax": 9680000000,
+      "net_income": 57411000000,
+      "eps_basic": 3.31,
+      "eps_diluted": 3.28,
+      "basic_shares_outstanding": 17352119000,
+      "diluted_shares_outstanding": 17352119000,
+      "ebitda": 81020000000,
+      "net_income_continuous_operations": 57411000000,
+      "minority_interests": null,
+      "preferred_stock_dividends": null
+    },
+    {
+      "fiscal_date": "2019-09-30",
+      "sales": 260174000000,
+      "cost_of_goods": 161782000000,
+      "gross_profit": 98392000000,
+      "operating_expense": {
+        "research_and_development": 16217000000,
+        "selling_general_and_administrative": 18245000000,
+        "other_operating_expenses": null
+      },
+      "operating_income": 63930000000,
+      "non_operating_interest": {
+        "income": 4961000000,
+        "expense": 3576000000
+      },
+      "other_income_expense": 422000000,
+      "pretax_income": 65737000000,
+      "income_tax": 10481000000,
+      "net_income": 55256000000,
+      "eps_basic": 2.9925,
+      "eps_diluted": 2.9725,
+      "basic_shares_outstanding": 18471336000,
+      "diluted_shares_outstanding": 18471336000,
+      "ebitda": 81860000000,
+      "net_income_continuous_operations": 55256000000,
+      "minority_interests": null,
+      "preferred_stock_dividends": null
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "sales": 265595000000,
+      "cost_of_goods": 163756000000,
+      "gross_profit": 101839000000,
+      "operating_expense": {
+        "research_and_development": 14236000000,
+        "selling_general_and_administrative": 16705000000,
+        "other_operating_expenses": null
+      },
+      "operating_income": 70898000000,
+      "non_operating_interest": {
+        "income": 5686000000,
+        "expense": 3240000000
+      },
+      "other_income_expense": -441000000,
+      "pretax_income": 72903000000,
+      "income_tax": 13372000000,
+      "net_income": 59531000000,
+      "eps_basic": 3.0025,
+      "eps_diluted": 2.9775,
+      "basic_shares_outstanding": 19821508000,
+      "diluted_shares_outstanding": 19821508000,
+      "ebitda": 87046000000,
+      "net_income_continuous_operations": 59531000000,
+      "minority_interests": null,
+      "preferred_stock_dividends": null
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "sales": 265595000000,
+      "cost_of_goods": 163756000000,
+      "gross_profit": 101839000000,
+      "operating_expense": {
+        "research_and_development": 14236000000,
+        "selling_general_and_administrative": 16705000000,
+        "other_operating_expenses": null
+      },
+      "operating_income": 70898000000,
+      "non_operating_interest": {
+        "income": 5686000000,
+        "expense": 3240000000
+      },
+      "other_income_expense": -441000000,
+      "pretax_income": 72903000000,
+      "income_tax": 13372000000,
+      "net_income": 59531000000,
+      "eps_basic": 3.0025,
+      "eps_diluted": 2.9775,
+      "basic_shares_outstanding": 19821508000,
+      "diluted_shares_outstanding": 19821508000,
+      "ebitda": 87046000000,
+      "net_income_continuous_operations": 59531000000,
+      "minority_interests": null,
+      "preferred_stock_dividends": null
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "sales": 265595000000,
+      "cost_of_goods": 163756000000,
+      "gross_profit": 101839000000,
+      "operating_expense": {
+        "research_and_development": 14236000000,
+        "selling_general_and_administrative": 16705000000,
+        "other_operating_expenses": null
+      },
+      "operating_income": 70898000000,
+      "non_operating_interest": {
+        "income": 5686000000,
+        "expense": 3240000000
+      },
+      "other_income_expense": -441000000,
+      "pretax_income": 72903000000,
+      "income_tax": 13372000000,
+      "net_income": 59531000000,
+      "eps_basic": 3.0025,
+      "eps_diluted": 2.9775,
+      "basic_shares_outstanding": 19821508000,
+      "diluted_shares_outstanding": 19821508000,
+      "ebitda": 87046000000,
+      "net_income_continuous_operations": 59531000000,
+      "minority_interests": null,
+      "preferred_stock_dividends": null
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "sales": 265595000000,
+      "cost_of_goods": 163756000000,
+      "gross_profit": 101839000000,
+      "operating_expense": {
+        "research_and_development": 14236000000,
+        "selling_general_and_administrative": 16705000000,
+        "other_operating_expenses": null
+      },
+      "operating_income": 70898000000,
+      "non_operating_interest": {
+        "income": 5686000000,
+        "expense": 3240000000
+      },
+      "other_income_expense": -441000000,
+      "pretax_income": 72903000000,
+      "income_tax": 13372000000,
+      "net_income": 59531000000,
+      "eps_basic": 3.0025,
+      "eps_diluted": 2.9775,
+      "basic_shares_outstanding": 19821508000,
+      "diluted_shares_outstanding": 19821508000,
+      "ebitda": 87046000000,
+      "net_income_continuous_operations": 59531000000,
+      "minority_interests": null,
+      "preferred_stock_dividends": null
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "sales": 265595000000,
+      "cost_of_goods": 163756000000,
+      "gross_profit": 101839000000,
+      "operating_expense": {
+        "research_and_development": 14236000000,
+        "selling_general_and_administrative": 16705000000,
+        "other_operating_expenses": null
+      },
+      "operating_income": 70898000000,
+      "non_operating_interest": {
+        "income": 5686000000,
+        "expense": 3240000000
+      },
+      "other_income_expense": -441000000,
+      "pretax_income": 72903000000,
+      "income_tax": 13372000000,
+      "net_income": 59531000000,
+      "eps_basic": 3.0025,
+      "eps_diluted": 2.9775,
+      "basic_shares_outstanding": 19821508000,
+      "diluted_shares_outstanding": 19821508000,
+      "ebitda": 87046000000,
+      "net_income_continuous_operations": 59531000000,
+      "minority_interests": null,
+      "preferred_stock_dividends": null
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "sales": 265595000000,
+      "cost_of_goods": 163756000000,
+      "gross_profit": 101839000000,
+      "operating_expense": {
+        "research_and_development": 14236000000,
+        "selling_general_and_administrative": 16705000000,
+        "other_operating_expenses": null
+      },
+      "operating_income": 70898000000,
+      "non_operating_interest": {
+        "income": 5686000000,
+        "expense": 3240000000
+      },
+      "other_income_expense": -441000000,
+      "pretax_income": 72903000000,
+      "income_tax": 13372000000,
+      "net_income": 59531000000,
+      "eps_basic": 3.0025,
+      "eps_diluted": 2.9775,
+      "basic_shares_outstanding": 19821508000,
+      "diluted_shares_outstanding": 19821508000,
+      "ebitda": 87046000000,
+      "net_income_continuous_operations": 59531000000,
+      "minority_interests": null,
+      "preferred_stock_dividends": null
+    }
+  ],
+  "balance_sheet": [
+    {
+      "fiscal_date": "2021-09-30",
+      "assets": {
+        "current_assets": {
+          "cash": 17305000000,
+          "cash_equivalents": 17635000000,
+          "cash_and_cash_equivalents": 34940000000,
+          "other_short_term_investments": 27699000000,
+          "accounts_receivable": 26278000000,
+          "other_receivables": 25228000000,
+          "inventory": 6580000000,
+          "prepaid_assets": null,
+          "restricted_cash": null,
+          "assets_held_for_sale": null,
+          "hedging_assets": null,
+          "other_current_assets": 14111000000,
+          "total_current_assets": 134836000000
+        },
+        "non_current_assets": {
+          "properties": 0,
+          "land_and_improvements": 20041000000,
+          "machinery_furniture_equipment": 78659000000,
+          "construction_in_progress": null,
+          "leases": 11023000000,
+          "accumulated_depreciation": -70283000000,
+          "goodwill": null,
+          "investment_properties": null,
+          "financial_assets": null,
+          "intangible_assets": null,
+          "investments_and_advances": 127877000000,
+          "other_non_current_assets": 48849000000,
+          "total_non_current_assets": 216166000000
+        },
+        "total_assets": 351002000000
+      },
+      "liabilities": {
+        "current_liabilities": {
+          "accounts_payable": 54763000000,
+          "accrued_expenses": null,
+          "short_term_debt": 15613000000,
+          "deferred_revenue": 7612000000,
+          "tax_payable": null,
+          "pensions": null,
+          "other_current_liabilities": 47493000000,
+          "total_current_liabilities": 125481000000
+        },
+        "non_current_liabilities": {
+          "long_term_provisions": null,
+          "long_term_debt": 109106000000,
+          "provision_for_risks_and_charges": 24689000000,
+          "deferred_liabilities": null,
+          "derivative_product_liabilities": null,
+          "other_non_current_liabilities": 28636000000,
+          "total_non_current_liabilities": 162431000000
+        },
+        "total_liabilities": 287912000000
+      },
+      "shareholders_equity": {
+        "common_stock": 57365000000,
+        "retained_earnings": 5562000000,
+        "other_shareholders_equity": 163000000,
+        "total_shareholders_equity": 63090000000,
+        "additional_paid_in_capital": null,
+        "treasury_stock": null,
+        "minority_interest": null
+      }
+    },
+    {
+      "fiscal_date": "2020-09-30",
+      "assets": {
+        "current_assets": {
+          "cash": 17773000000,
+          "cash_equivalents": 20243000000,
+          "cash_and_cash_equivalents": 38016000000,
+          "other_short_term_investments": 52927000000,
+          "accounts_receivable": 16120000000,
+          "other_receivables": 21325000000,
+          "inventory": 4061000000,
+          "prepaid_assets": null,
+          "restricted_cash": null,
+          "assets_held_for_sale": null,
+          "hedging_assets": null,
+          "other_current_assets": 11264000000,
+          "total_current_assets": 143713000000
+        },
+        "non_current_assets": {
+          "properties": 0,
+          "land_and_improvements": 17952000000,
+          "machinery_furniture_equipment": 75291000000,
+          "construction_in_progress": null,
+          "leases": 10283000000,
+          "accumulated_depreciation": -66760000000,
+          "goodwill": null,
+          "investment_properties": null,
+          "financial_assets": null,
+          "intangible_assets": null,
+          "investments_and_advances": 100887000000,
+          "other_non_current_assets": 42522000000,
+          "total_non_current_assets": 180175000000
+        },
+        "total_assets": 323888000000
+      },
+      "liabilities": {
+        "current_liabilities": {
+          "accounts_payable": 42296000000,
+          "accrued_expenses": null,
+          "short_term_debt": 13769000000,
+          "deferred_revenue": 6643000000,
+          "tax_payable": null,
+          "pensions": null,
+          "other_current_liabilities": 42684000000,
+          "total_current_liabilities": 105392000000
+        },
+        "non_current_liabilities": {
+          "long_term_provisions": null,
+          "long_term_debt": 98667000000,
+          "provision_for_risks_and_charges": 28170000000,
+          "deferred_liabilities": null,
+          "derivative_product_liabilities": null,
+          "other_non_current_liabilities": 26320000000,
+          "total_non_current_liabilities": 153157000000
+        },
+        "total_liabilities": 258549000000
+      },
+      "shareholders_equity": {
+        "common_stock": 50779000000,
+        "retained_earnings": 14966000000,
+        "other_shareholders_equity": -406000000,
+        "total_shareholders_equity": 65339000000,
+        "additional_paid_in_capital": null,
+        "treasury_stock": null,
+        "minority_interest": null
+      }
+    },
+    {
+      "fiscal_date": "2019-09-30",
+      "assets": {
+        "current_assets": {
+          "cash": 12204000000,
+          "cash_equivalents": 36640000000,
+          "cash_and_cash_equivalents": 48844000000,
+          "other_short_term_investments": 51713000000,
+          "accounts_receivable": 22926000000,
+          "other_receivables": 22878000000,
+          "inventory": 4106000000,
+          "prepaid_assets": null,
+          "restricted_cash": null,
+          "assets_held_for_sale": null,
+          "hedging_assets": null,
+          "other_current_assets": 12352000000,
+          "total_current_assets": 162819000000
+        },
+        "non_current_assets": {
+          "properties": 0,
+          "land_and_improvements": 17085000000,
+          "machinery_furniture_equipment": 69797000000,
+          "construction_in_progress": null,
+          "leases": 9075000000,
+          "accumulated_depreciation": -58579000000,
+          "goodwill": null,
+          "investment_properties": null,
+          "financial_assets": null,
+          "intangible_assets": null,
+          "investments_and_advances": 105341000000,
+          "other_non_current_assets": 32978000000,
+          "total_non_current_assets": 175697000000
+        },
+        "total_assets": 338516000000
+      },
+      "liabilities": {
+        "current_liabilities": {
+          "accounts_payable": 46236000000,
+          "accrued_expenses": null,
+          "short_term_debt": 16240000000,
+          "deferred_revenue": 5522000000,
+          "tax_payable": null,
+          "pensions": null,
+          "other_current_liabilities": 37720000000,
+          "total_current_liabilities": 105718000000
+        },
+        "non_current_liabilities": {
+          "long_term_provisions": null,
+          "long_term_debt": 91807000000,
+          "provision_for_risks_and_charges": 29545000000,
+          "deferred_liabilities": null,
+          "derivative_product_liabilities": null,
+          "other_non_current_liabilities": 20958000000,
+          "total_non_current_liabilities": 142310000000
+        },
+        "total_liabilities": 248028000000
+      },
+      "shareholders_equity": {
+        "common_stock": 45174000000,
+        "retained_earnings": 45898000000,
+        "other_shareholders_equity": -584000000,
+        "total_shareholders_equity": 90488000000,
+        "additional_paid_in_capital": null,
+        "treasury_stock": null,
+        "minority_interest": null
+      }
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "assets": {
+        "current_assets": {
+          "cash": 11575000000,
+          "cash_equivalents": 14338000000,
+          "cash_and_cash_equivalents": 25913000000,
+          "other_short_term_investments": 40388000000,
+          "accounts_receivable": 23186000000,
+          "other_receivables": 25809000000,
+          "inventory": 3956000000,
+          "prepaid_assets": null,
+          "restricted_cash": null,
+          "assets_held_for_sale": null,
+          "hedging_assets": null,
+          "other_current_assets": 12087000000,
+          "total_current_assets": 131339000000
+        },
+        "non_current_assets": {
+          "properties": 0,
+          "land_and_improvements": 16216000000,
+          "machinery_furniture_equipment": 65982000000,
+          "construction_in_progress": null,
+          "leases": 8205000000,
+          "accumulated_depreciation": -49099000000,
+          "goodwill": null,
+          "investment_properties": null,
+          "financial_assets": null,
+          "intangible_assets": null,
+          "investments_and_advances": 170799000000,
+          "other_non_current_assets": 22283000000,
+          "total_non_current_assets": 234386000000
+        },
+        "total_assets": 365725000000
+      },
+      "liabilities": {
+        "current_liabilities": {
+          "accounts_payable": 55888000000,
+          "accrued_expenses": null,
+          "short_term_debt": 20748000000,
+          "deferred_revenue": 7543000000,
+          "tax_payable": null,
+          "pensions": null,
+          "other_current_liabilities": 32687000000,
+          "total_current_liabilities": 116866000000
+        },
+        "non_current_liabilities": {
+          "long_term_provisions": null,
+          "long_term_debt": 93735000000,
+          "provision_for_risks_and_charges": 33589000000,
+          "deferred_liabilities": 426000000,
+          "derivative_product_liabilities": null,
+          "other_non_current_liabilities": 11165000000,
+          "total_non_current_liabilities": 138489000000
+        },
+        "total_liabilities": 255355000000
+      },
+      "shareholders_equity": {
+        "common_stock": 40201000000,
+        "retained_earnings": 70400000000,
+        "other_shareholders_equity": -3454000000,
+        "total_shareholders_equity": 107147000000,
+        "additional_paid_in_capital": null,
+        "treasury_stock": null,
+        "minority_interest": null
+      }
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "assets": {
+        "current_assets": {
+          "cash": 11575000000,
+          "cash_equivalents": 14338000000,
+          "cash_and_cash_equivalents": 25913000000,
+          "other_short_term_investments": 40388000000,
+          "accounts_receivable": 23186000000,
+          "other_receivables": 25809000000,
+          "inventory": 3956000000,
+          "prepaid_assets": null,
+          "restricted_cash": null,
+          "assets_held_for_sale": null,
+          "hedging_assets": null,
+          "other_current_assets": 12087000000,
+          "total_current_assets": 131339000000
+        },
+        "non_current_assets": {
+          "properties": 0,
+          "land_and_improvements": 16216000000,
+          "machinery_furniture_equipment": 65982000000,
+          "construction_in_progress": null,
+          "leases": 8205000000,
+          "accumulated_depreciation": -49099000000,
+          "goodwill": null,
+          "investment_properties": null,
+          "financial_assets": null,
+          "intangible_assets": null,
+          "investments_and_advances": 170799000000,
+          "other_non_current_assets": 22283000000,
+          "total_non_current_assets": 234386000000
+        },
+        "total_assets": 365725000000
+      },
+      "liabilities": {
+        "current_liabilities": {
+          "accounts_payable": 55888000000,
+          "accrued_expenses": null,
+          "short_term_debt": 20748000000,
+          "deferred_revenue": 7543000000,
+          "tax_payable": null,
+          "pensions": null,
+          "other_current_liabilities": 32687000000,
+          "total_current_liabilities": 116866000000
+        },
+        "non_current_liabilities": {
+          "long_term_provisions": null,
+          "long_term_debt": 93735000000,
+          "provision_for_risks_and_charges": 33589000000,
+          "deferred_liabilities": 426000000,
+          "derivative_product_liabilities": null,
+          "other_non_current_liabilities": 11165000000,
+          "total_non_current_liabilities": 138489000000
+        },
+        "total_liabilities": 255355000000
+      },
+      "shareholders_equity": {
+        "common_stock": 40201000000,
+        "retained_earnings": 70400000000,
+        "other_shareholders_equity": -3454000000,
+        "total_shareholders_equity": 107147000000,
+        "additional_paid_in_capital": null,
+        "treasury_stock": null,
+        "minority_interest": null
+      }
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "assets": {
+        "current_assets": {
+          "cash": 11575000000,
+          "cash_equivalents": 14338000000,
+          "cash_and_cash_equivalents": 25913000000,
+          "other_short_term_investments": 40388000000,
+          "accounts_receivable": 23186000000,
+          "other_receivables": 25809000000,
+          "inventory": 3956000000,
+          "prepaid_assets": null,
+          "restricted_cash": null,
+          "assets_held_for_sale": null,
+          "hedging_assets": null,
+          "other_current_assets": 12087000000,
+          "total_current_assets": 131339000000
+        },
+        "non_current_assets": {
+          "properties": 0,
+          "land_and_improvements": 16216000000,
+          "machinery_furniture_equipment": 65982000000,
+          "construction_in_progress": null,
+          "leases": 8205000000,
+          "accumulated_depreciation": -49099000000,
+          "goodwill": null,
+          "investment_properties": null,
+          "financial_assets": null,
+          "intangible_assets": null,
+          "investments_and_advances": 170799000000,
+          "other_non_current_assets": 22283000000,
+          "total_non_current_assets": 234386000000
+        },
+        "total_assets": 365725000000
+      },
+      "liabilities": {
+        "current_liabilities": {
+          "accounts_payable": 55888000000,
+          "accrued_expenses": null,
+          "short_term_debt": 20748000000,
+          "deferred_revenue": 7543000000,
+          "tax_payable": null,
+          "pensions": null,
+          "other_current_liabilities": 32687000000,
+          "total_current_liabilities": 116866000000
+        },
+        "non_current_liabilities": {
+          "long_term_provisions": null,
+          "long_term_debt": 93735000000,
+          "provision_for_risks_and_charges": 33589000000,
+          "deferred_liabilities": 426000000,
+          "derivative_product_liabilities": null,
+          "other_non_current_liabilities": 11165000000,
+          "total_non_current_liabilities": 138489000000
+        },
+        "total_liabilities": 255355000000
+      },
+      "shareholders_equity": {
+        "common_stock": 40201000000,
+        "retained_earnings": 70400000000,
+        "other_shareholders_equity": -3454000000,
+        "total_shareholders_equity": 107147000000,
+        "additional_paid_in_capital": null,
+        "treasury_stock": null,
+        "minority_interest": null
+      }
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "assets": {
+        "current_assets": {
+          "cash": 11575000000,
+          "cash_equivalents": 14338000000,
+          "cash_and_cash_equivalents": 25913000000,
+          "other_short_term_investments": 40388000000,
+          "accounts_receivable": 23186000000,
+          "other_receivables": 25809000000,
+          "inventory": 3956000000,
+          "prepaid_assets": null,
+          "restricted_cash": null,
+          "assets_held_for_sale": null,
+          "hedging_assets": null,
+          "other_current_assets": 12087000000,
+          "total_current_assets": 131339000000
+        },
+        "non_current_assets": {
+          "properties": 0,
+          "land_and_improvements": 16216000000,
+          "machinery_furniture_equipment": 65982000000,
+          "construction_in_progress": null,
+          "leases": 8205000000,
+          "accumulated_depreciation": -49099000000,
+          "goodwill": null,
+          "investment_properties": null,
+          "financial_assets": null,
+          "intangible_assets": null,
+          "investments_and_advances": 170799000000,
+          "other_non_current_assets": 22283000000,
+          "total_non_current_assets": 234386000000
+        },
+        "total_assets": 365725000000
+      },
+      "liabilities": {
+        "current_liabilities": {
+          "accounts_payable": 55888000000,
+          "accrued_expenses": null,
+          "short_term_debt": 20748000000,
+          "deferred_revenue": 7543000000,
+          "tax_payable": null,
+          "pensions": null,
+          "other_current_liabilities": 32687000000,
+          "total_current_liabilities": 116866000000
+        },
+        "non_current_liabilities": {
+          "long_term_provisions": null,
+          "long_term_debt": 93735000000,
+          "provision_for_risks_and_charges": 33589000000,
+          "deferred_liabilities": 426000000,
+          "derivative_product_liabilities": null,
+          "other_non_current_liabilities": 11165000000,
+          "total_non_current_liabilities": 138489000000
+        },
+        "total_liabilities": 255355000000
+      },
+      "shareholders_equity": {
+        "common_stock": 40201000000,
+        "retained_earnings": 70400000000,
+        "other_shareholders_equity": -3454000000,
+        "total_shareholders_equity": 107147000000,
+        "additional_paid_in_capital": null,
+        "treasury_stock": null,
+        "minority_interest": null
+      }
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "assets": {
+        "current_assets": {
+          "cash": 11575000000,
+          "cash_equivalents": 14338000000,
+          "cash_and_cash_equivalents": 25913000000,
+          "other_short_term_investments": 40388000000,
+          "accounts_receivable": 23186000000,
+          "other_receivables": 25809000000,
+          "inventory": 3956000000,
+          "prepaid_assets": null,
+          "restricted_cash": null,
+          "assets_held_for_sale": null,
+          "hedging_assets": null,
+          "other_current_assets": 12087000000,
+          "total_current_assets": 131339000000
+        },
+        "non_current_assets": {
+          "properties": 0,
+          "land_and_improvements": 16216000000,
+          "machinery_furniture_equipment": 65982000000,
+          "construction_in_progress": null,
+          "leases": 8205000000,
+          "accumulated_depreciation": -49099000000,
+          "goodwill": null,
+          "investment_properties": null,
+          "financial_assets": null,
+          "intangible_assets": null,
+          "investments_and_advances": 170799000000,
+          "other_non_current_assets": 22283000000,
+          "total_non_current_assets": 234386000000
+        },
+        "total_assets": 365725000000
+      },
+      "liabilities": {
+        "current_liabilities": {
+          "accounts_payable": 55888000000,
+          "accrued_expenses": null,
+          "short_term_debt": 20748000000,
+          "deferred_revenue": 7543000000,
+          "tax_payable": null,
+          "pensions": null,
+          "other_current_liabilities": 32687000000,
+          "total_current_liabilities": 116866000000
+        },
+        "non_current_liabilities": {
+          "long_term_provisions": null,
+          "long_term_debt": 93735000000,
+          "provision_for_risks_and_charges": 33589000000,
+          "deferred_liabilities": 426000000,
+          "derivative_product_liabilities": null,
+          "other_non_current_liabilities": 11165000000,
+          "total_non_current_liabilities": 138489000000
+        },
+        "total_liabilities": 255355000000
+      },
+      "shareholders_equity": {
+        "common_stock": 40201000000,
+        "retained_earnings": 70400000000,
+        "other_shareholders_equity": -3454000000,
+        "total_shareholders_equity": 107147000000,
+        "additional_paid_in_capital": null,
+        "treasury_stock": null,
+        "minority_interest": null
+      }
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "assets": {
+        "current_assets": {
+          "cash": 11575000000,
+          "cash_equivalents": 14338000000,
+          "cash_and_cash_equivalents": 25913000000,
+          "other_short_term_investments": 40388000000,
+          "accounts_receivable": 23186000000,
+          "other_receivables": 25809000000,
+          "inventory": 3956000000,
+          "prepaid_assets": null,
+          "restricted_cash": null,
+          "assets_held_for_sale": null,
+          "hedging_assets": null,
+          "other_current_assets": 12087000000,
+          "total_current_assets": 131339000000
+        },
+        "non_current_assets": {
+          "properties": 0,
+          "land_and_improvements": 16216000000,
+          "machinery_furniture_equipment": 65982000000,
+          "construction_in_progress": null,
+          "leases": 8205000000,
+          "accumulated_depreciation": -49099000000,
+          "goodwill": null,
+          "investment_properties": null,
+          "financial_assets": null,
+          "intangible_assets": null,
+          "investments_and_advances": 170799000000,
+          "other_non_current_assets": 22283000000,
+          "total_non_current_assets": 234386000000
+        },
+        "total_assets": 365725000000
+      },
+      "liabilities": {
+        "current_liabilities": {
+          "accounts_payable": 55888000000,
+          "accrued_expenses": null,
+          "short_term_debt": 20748000000,
+          "deferred_revenue": 7543000000,
+          "tax_payable": null,
+          "pensions": null,
+          "other_current_liabilities": 32687000000,
+          "total_current_liabilities": 116866000000
+        },
+        "non_current_liabilities": {
+          "long_term_provisions": null,
+          "long_term_debt": 93735000000,
+          "provision_for_risks_and_charges": 33589000000,
+          "deferred_liabilities": 426000000,
+          "derivative_product_liabilities": null,
+          "other_non_current_liabilities": 11165000000,
+          "total_non_current_liabilities": 138489000000
+        },
+        "total_liabilities": 255355000000
+      },
+      "shareholders_equity": {
+        "common_stock": 40201000000,
+        "retained_earnings": 70400000000,
+        "other_shareholders_equity": -3454000000,
+        "total_shareholders_equity": 107147000000,
+        "additional_paid_in_capital": null,
+        "treasury_stock": null,
+        "minority_interest": null
+      }
+    }
+  ],
+  "cash_flow": [
+    {
+      "fiscal_date": "2021-12-31",
+      "quarter": 1,
+      "operating_activities": {
+        "net_income": 94680000000,
+        "depreciation": 11284000000,
+        "deferred_taxes": -4774000000,
+        "stock_based_compensation": 7906000000,
+        "other_non_cash_items": -147000000,
+        "accounts_receivable": -14028000000,
+        "accounts_payable": 12326000000,
+        "other_assets_liabilities": -3209000000,
+        "operating_cash_flow": 104038000000
+      },
+      "investing_activities": {
+        "capital_expenditures": -11085000000,
+        "net_intangibles": null,
+        "net_acquisitions": -33000000,
+        "purchase_of_investments": -109689000000,
+        "sale_of_investments": 106870000000,
+        "other_investing_activity": -608000000,
+        "investing_cash_flow": -14545000000
+      },
+      "financing_activities": {
+        "long_term_debt_issuance": 20393000000,
+        "long_term_debt_payments": -8750000000,
+        "short_term_debt_issuance": 1022000000,
+        "common_stock_issuance": 1105000000,
+        "common_stock_repurchase": -85971000000,
+        "common_dividends": -14467000000,
+        "other_financing_charges": -6685000000,
+        "financing_cash_flow": -93353000000
+      },
+      "end_cash_position": 35929000000,
+      "income_tax_paid": 25385000000,
+      "interest_paid": 2687000000,
+      "free_cash_flow": 92953000000
+    },
+    {
+      "fiscal_date": "2019-09-30",
+      "quarter": 1,
+      "operating_activities": {
+        "net_income": 55256000000,
+        "depreciation": 12547000000,
+        "deferred_taxes": -340000000,
+        "stock_based_compensation": 6068000000,
+        "other_non_cash_items": -652000000,
+        "accounts_receivable": 3176000000,
+        "accounts_payable": -1923000000,
+        "other_assets_liabilities": -4741000000,
+        "operating_cash_flow": 69391000000
+      },
+      "investing_activities": {
+        "capital_expenditures": -10495000000,
+        "net_intangibles": null,
+        "net_acquisitions": -624000000,
+        "purchase_of_investments": -40631000000,
+        "sale_of_investments": 98724000000,
+        "other_investing_activity": -1078000000,
+        "investing_cash_flow": 45896000000
+      },
+      "financing_activities": {
+        "long_term_debt_issuance": 6963000000,
+        "long_term_debt_payments": -8805000000,
+        "short_term_debt_issuance": -5977000000,
+        "common_stock_issuance": 781000000,
+        "common_stock_repurchase": -66897000000,
+        "common_dividends": -14119000000,
+        "other_financing_charges": -2922000000,
+        "financing_cash_flow": -90976000000
+      },
+      "end_cash_position": 50224000000,
+      "income_tax_paid": 15263000000,
+      "interest_paid": 3423000000,
+      "free_cash_flow": 58896000000
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "quarter": 1,
+      "operating_activities": {
+        "net_income": 59531000000,
+        "depreciation": 10903000000,
+        "deferred_taxes": -32590000000,
+        "stock_based_compensation": 5340000000,
+        "other_non_cash_items": -444000000,
+        "accounts_receivable": -13332000000,
+        "accounts_payable": 9175000000,
+        "other_assets_liabilities": 38851000000,
+        "operating_cash_flow": 77434000000
+      },
+      "investing_activities": {
+        "capital_expenditures": -13313000000,
+        "net_intangibles": null,
+        "net_acquisitions": -721000000,
+        "purchase_of_investments": -73227000000,
+        "sale_of_investments": 104072000000,
+        "other_investing_activity": -745000000,
+        "investing_cash_flow": 16066000000
+      },
+      "financing_activities": {
+        "long_term_debt_issuance": 6969000000,
+        "long_term_debt_payments": -6500000000,
+        "short_term_debt_issuance": -37000000,
+        "common_stock_issuance": 669000000,
+        "common_stock_repurchase": -72738000000,
+        "common_dividends": -13712000000,
+        "other_financing_charges": -2527000000,
+        "financing_cash_flow": -87876000000
+      },
+      "end_cash_position": 25913000000,
+      "income_tax_paid": 10417000000,
+      "interest_paid": 3022000000,
+      "free_cash_flow": 64121000000
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "quarter": 1,
+      "operating_activities": {
+        "net_income": 59531000000,
+        "depreciation": 10903000000,
+        "deferred_taxes": -32590000000,
+        "stock_based_compensation": 5340000000,
+        "other_non_cash_items": -444000000,
+        "accounts_receivable": -13332000000,
+        "accounts_payable": 9175000000,
+        "other_assets_liabilities": 38851000000,
+        "operating_cash_flow": 77434000000
+      },
+      "investing_activities": {
+        "capital_expenditures": -13313000000,
+        "net_intangibles": null,
+        "net_acquisitions": -721000000,
+        "purchase_of_investments": -73227000000,
+        "sale_of_investments": 104072000000,
+        "other_investing_activity": -745000000,
+        "investing_cash_flow": 16066000000
+      },
+      "financing_activities": {
+        "long_term_debt_issuance": 6969000000,
+        "long_term_debt_payments": -6500000000,
+        "short_term_debt_issuance": -37000000,
+        "common_stock_issuance": 669000000,
+        "common_stock_repurchase": -72738000000,
+        "common_dividends": -13712000000,
+        "other_financing_charges": -2527000000,
+        "financing_cash_flow": -87876000000
+      },
+      "end_cash_position": 25913000000,
+      "income_tax_paid": 10417000000,
+      "interest_paid": 3022000000,
+      "free_cash_flow": 64121000000
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "quarter": 1,
+      "operating_activities": {
+        "net_income": 59531000000,
+        "depreciation": 10903000000,
+        "deferred_taxes": -32590000000,
+        "stock_based_compensation": 5340000000,
+        "other_non_cash_items": -444000000,
+        "accounts_receivable": -13332000000,
+        "accounts_payable": 9175000000,
+        "other_assets_liabilities": 38851000000,
+        "operating_cash_flow": 77434000000
+      },
+      "investing_activities": {
+        "capital_expenditures": -13313000000,
+        "net_intangibles": null,
+        "net_acquisitions": -721000000,
+        "purchase_of_investments": -73227000000,
+        "sale_of_investments": 104072000000,
+        "other_investing_activity": -745000000,
+        "investing_cash_flow": 16066000000
+      },
+      "financing_activities": {
+        "long_term_debt_issuance": 6969000000,
+        "long_term_debt_payments": -6500000000,
+        "short_term_debt_issuance": -37000000,
+        "common_stock_issuance": 669000000,
+        "common_stock_repurchase": -72738000000,
+        "common_dividends": -13712000000,
+        "other_financing_charges": -2527000000,
+        "financing_cash_flow": -87876000000
+      },
+      "end_cash_position": 25913000000,
+      "income_tax_paid": 10417000000,
+      "interest_paid": 3022000000,
+      "free_cash_flow": 64121000000
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "quarter": 1,
+      "operating_activities": {
+        "net_income": 59531000000,
+        "depreciation": 10903000000,
+        "deferred_taxes": -32590000000,
+        "stock_based_compensation": 5340000000,
+        "other_non_cash_items": -444000000,
+        "accounts_receivable": -13332000000,
+        "accounts_payable": 9175000000,
+        "other_assets_liabilities": 38851000000,
+        "operating_cash_flow": 77434000000
+      },
+      "investing_activities": {
+        "capital_expenditures": -13313000000,
+        "net_intangibles": null,
+        "net_acquisitions": -721000000,
+        "purchase_of_investments": -73227000000,
+        "sale_of_investments": 104072000000,
+        "other_investing_activity": -745000000,
+        "investing_cash_flow": 16066000000
+      },
+      "financing_activities": {
+        "long_term_debt_issuance": 6969000000,
+        "long_term_debt_payments": -6500000000,
+        "short_term_debt_issuance": -37000000,
+        "common_stock_issuance": 669000000,
+        "common_stock_repurchase": -72738000000,
+        "common_dividends": -13712000000,
+        "other_financing_charges": -2527000000,
+        "financing_cash_flow": -87876000000
+      },
+      "end_cash_position": 25913000000,
+      "income_tax_paid": 10417000000,
+      "interest_paid": 3022000000,
+      "free_cash_flow": 64121000000
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "quarter": 1,
+      "operating_activities": {
+        "net_income": 59531000000,
+        "depreciation": 10903000000,
+        "deferred_taxes": -32590000000,
+        "stock_based_compensation": 5340000000,
+        "other_non_cash_items": -444000000,
+        "accounts_receivable": -13332000000,
+        "accounts_payable": 9175000000,
+        "other_assets_liabilities": 38851000000,
+        "operating_cash_flow": 77434000000
+      },
+      "investing_activities": {
+        "capital_expenditures": -13313000000,
+        "net_intangibles": null,
+        "net_acquisitions": -721000000,
+        "purchase_of_investments": -73227000000,
+        "sale_of_investments": 104072000000,
+        "other_investing_activity": -745000000,
+        "investing_cash_flow": 16066000000
+      },
+      "financing_activities": {
+        "long_term_debt_issuance": 6969000000,
+        "long_term_debt_payments": -6500000000,
+        "short_term_debt_issuance": -37000000,
+        "common_stock_issuance": 669000000,
+        "common_stock_repurchase": -72738000000,
+        "common_dividends": -13712000000,
+        "other_financing_charges": -2527000000,
+        "financing_cash_flow": -87876000000
+      },
+      "end_cash_position": 25913000000,
+      "income_tax_paid": 10417000000,
+      "interest_paid": 3022000000,
+      "free_cash_flow": 64121000000
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "quarter": 1,
+      "operating_activities": {
+        "net_income": 59531000000,
+        "depreciation": 10903000000,
+        "deferred_taxes": -32590000000,
+        "stock_based_compensation": 5340000000,
+        "other_non_cash_items": -444000000,
+        "accounts_receivable": -13332000000,
+        "accounts_payable": 9175000000,
+        "other_assets_liabilities": 38851000000,
+        "operating_cash_flow": 77434000000
+      },
+      "investing_activities": {
+        "capital_expenditures": -13313000000,
+        "net_intangibles": null,
+        "net_acquisitions": -721000000,
+        "purchase_of_investments": -73227000000,
+        "sale_of_investments": 104072000000,
+        "other_investing_activity": -745000000,
+        "investing_cash_flow": 16066000000
+      },
+      "financing_activities": {
+        "long_term_debt_issuance": 6969000000,
+        "long_term_debt_payments": -6500000000,
+        "short_term_debt_issuance": -37000000,
+        "common_stock_issuance": 669000000,
+        "common_stock_repurchase": -72738000000,
+        "common_dividends": -13712000000,
+        "other_financing_charges": -2527000000,
+        "financing_cash_flow": -87876000000
+      },
+      "end_cash_position": 25913000000,
+      "income_tax_paid": 10417000000,
+      "interest_paid": 3022000000,
+      "free_cash_flow": 64121000000
+    },
+    {
+      "fiscal_date": "2018-09-30",
+      "quarter": 1,
+      "operating_activities": {
+        "net_income": 59531000000,
+        "depreciation": 10903000000,
+        "deferred_taxes": -32590000000,
+        "stock_based_compensation": 5340000000,
+        "other_non_cash_items": -444000000,
+        "accounts_receivable": -13332000000,
+        "accounts_payable": 9175000000,
+        "other_assets_liabilities": 38851000000,
+        "operating_cash_flow": 77434000000
+      },
+      "investing_activities": {
+        "capital_expenditures": -13313000000,
+        "net_intangibles": null,
+        "net_acquisitions": -721000000,
+        "purchase_of_investments": -73227000000,
+        "sale_of_investments": 104072000000,
+        "other_investing_activity": -745000000,
+        "investing_cash_flow": 16066000000
+      },
+      "financing_activities": {
+        "long_term_debt_issuance": 6969000000,
+        "long_term_debt_payments": -6500000000,
+        "short_term_debt_issuance": -37000000,
+        "common_stock_issuance": 669000000,
+        "common_stock_repurchase": -72738000000,
+        "common_dividends": -13712000000,
+        "other_financing_charges": -2527000000,
+        "financing_cash_flow": -87876000000
+      },
+      "end_cash_position": 25913000000,
+      "income_tax_paid": 10417000000,
+      "interest_paid": 3022000000,
+      "free_cash_flow": 64121000000
+    }
+  ],
+  "general": {
+    "symbol": "AAPL",
+    "name": "Apple Inc",
+    "exchange": "NASDAQ",
+    "mic_code": "XNAS",
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "employees": 147000,
+    "website": "http://www.apple.com",
+    "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. It also sells various related services. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple TV, Apple Watch, Beats products, HomePod, iPod touch, and other Apple-branded and third-party accessories. It also provides AppleCare support services; cloud services store services; and operates various platforms, including the App Store, that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts. In addition, the company offers various services, such as Apple Arcade, a game subscription service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV+, which offers exclusive original content; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It sells and delivers third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers, wholesalers, retailers, and resellers. Apple Inc. was founded in 1977 and is headquartered in Cupertino, California.",
+    "type": "Common Stock",
+    "CEO": "Mr. Timothy D. Cook",
+    "address": "One Apple Park Way",
+    "city": "Cupertino",
+    "zip": "95014",
+    "state": "CA",
+    "country": "US",
+    "phone": "408-996-1010"
+  },
+  "logo": {
+    "meta": {
+      "symbol": "AAPL",
+      "name": "Apple Inc",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "mic_code": "XNAS",
+      "exchange_timezone": "America/New_York"
+    },
+    "url": "https://api.twelvedata.com/logo/apple.com"
+  },
+  "statistics": {
+    "valuations_metrics": {
+      "market_capitalization": 2123407865344,
+      "enterprise_value": 2620597731328,
+      "trailing_pe": 30.162493,
+      "forward_pe": 26.982489,
+      "peg_ratio": 4.74,
+      "price_to_sales_ttm": 7.336227,
+      "price_to_book_mrq": 39.68831,
+      "enterprise_to_revenue": 7.549,
+      "enterprise_to_ebitda": 23.623
+    },
+    "financials": {
+      "fiscal_year_ends": "2021-09-26",
+      "most_recent_quarter": "2021-06-26",
+      "profit_margin": 0.25004,
+      "operating_margin": 0.28788,
+      "return_on_assets_ttm": 0.19302,
+      "return_on_equity_ttm": 1.27125,
+      "income_statement": {
+        "revenue_ttm": 347155005440,
+        "revenue_per_share_ttm": 20.61,
+        "quarterly_revenue_growth": 0.364,
+        "gross_profit_ttm": 104956000000,
+        "ebitda": 110934999040,
+        "net_income_to_common_ttm": 86801997824,
+        "diluted_eps_ttm": 5.108,
+        "quarterly_earnings_growth_yoy": 0.932
+      },
+      "balance_sheet": {
+        "revenue_ttm": 347155005440,
+        "total_cash_mrq": 61696000000,
+        "total_cash_per_share_mrq": 3.732,
+        "total_debt_mrq": 135491002368,
+        "total_debt_to_equity_mrq": 210.782,
+        "current_ratio_mrq": 1.062,
+        "book_value_per_share_mrq": 3.882
+      },
+      "cash_flow": {
+        "operating_cash_flow_ttm": 104414003200,
+        "levered_free_cash_flow_ttm": 80625876992
+      }
+    },
+    "stock_statistics": {
+      "shares_outstanding": 16530199552,
+      "float_shares": 16513305231,
+      "avg_10_volume": 72804757,
+      "avg_30_volume": 77013078,
+      "shares_short": 223105968,
+      "short_ratio": 1.19,
+      "short_percent_of_shares_outstanding": 0.0056,
+      "percent_held_by_insiders": 0.00071000005,
+      "percent_held_by_institutions": 0.58474
+    },
+    "stock_price_summary": {
+      "fifty_two_week_low": 103.1,
+      "fifty_two_week_high": 157.26,
+      "fifty_two_week_change": 0.375625,
+      "beta": 1.201965,
+      "day_50_ma": 148.96686,
+      "day_200_ma": 134.42506
+    },
+    "dividends_and_splits": {
+      "forward_annual_dividend_rate": 0.88,
+      "forward_annual_dividend_yield": 0.02,
+      "trailing_annual_dividend_rate": 0.835,
+      "trailing_annual_dividend_yield": 0.05,
+      "5_year_average_dividend_yield": 2.5,
+      "payout_ratio": 0.5,
+      "dividend_date": "2021-08-12",
+      "ex_dividend_date": "2021-08-06",
+      "last_split_factor": "4-for-1 split",
+      "last_split_date": "2020-08-31"
+    }
+  },
+  "earnings": [
+    {
+      "date": "2020-04-30",
+      "time": "After Hours",
+      "eps_estimate": 2.09,
+      "eps_actual": 2.55,
+      "difference": 0.46,
+      "surprise_prc": 22.01
+    },
+    {
+      "date": "2020-01-28",
+      "time": "After Hours",
+      "eps_estimate": 4.54,
+      "eps_actual": 4.99,
+      "difference": 0.45,
+      "surprise_prc": 9.91
+    },
+    {
+      "date": "2019-10-30",
+      "time": "After Hours",
+      "eps_estimate": 2.84,
+      "eps_actual": 3.03,
+      "difference": 0.19,
+      "surprise_prc": 6.69
+    },
+    {
+      "date": "2019-07-30",
+      "time": "After Hours",
+      "eps_estimate": 2.1,
+      "eps_actual": 2.18,
+      "difference": 0.08,
+      "surprise_prc": 3.81
+    },
+    {
+      "date": "2019-04-30",
+      "time": "After Hours",
+      "eps_estimate": 2.37,
+      "eps_actual": 2.46,
+      "difference": 0.09,
+      "surprise_prc": 3.8
+    }
+  ]
+}
