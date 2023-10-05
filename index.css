@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .input {
+    @apply w-96 h-12 mb-6 border-solid border-2 border-sky-100 rounded-full text-xl text-sky-100 px-5 bg-transparent focus:outline-none focus:ring focus:ring-blue-400 focus:bg-blue-200/20 placeholder:text-blue-400 shadow-input;
+  }
+
+  .label {
+    @apply italic text-lg mb-2 text-center w-96 text-white relative;
+  }
+
+  .error {
+    @apply absolute left-full top-11 w-1/2 text-orange-200 ml-4 py-1 px-3 bg-red-800 rounded-full text-center text-sm;
+  }
+
+  .appNav {
+    @apply flex items-center justify-center text-sm text-sky-200 h-full w-[6.5rem] text-center font-semibold tracking-wide hover:cursor-pointer hover:bg-sky-200 hover:text-blue-950;
+  }
+}
+
+body {
+  font-family: sans-serif;
+  color: var(--color-fonts);
+  background-image: linear-gradient(
+      rgba(25, 25, 112, 0.9),
+      rgba(25, 25, 112, 0.9)
+    ),
+    url("https://bdl-lde.ca/wp-content/uploads/2023/04/TerminalHeaderImage.jpg");
+  background-size: cover;
+  background-position: center;
+  line-height: 1.6;
+}
+
+::-webkit-scrollbar {
+  display: none;
+  color: rgba(0, 83, 135, 0.5);
+}
+
+.donut {
+  position: absolute;
+  top: 5px;
+}
